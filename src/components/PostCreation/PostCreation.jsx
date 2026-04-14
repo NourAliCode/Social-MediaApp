@@ -165,7 +165,7 @@ export default function PostCreation() {
                         onClose();
                         mutate();
                       }}
-                      className="border-e-cyan-950"
+                      className="border-e-cyan-950 text-white px-3 py-1.5  bg-cyan-500 rounded-md"
                       color="primary"
                       // onPress={onClose}
                     >

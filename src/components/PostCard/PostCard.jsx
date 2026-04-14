@@ -25,7 +25,7 @@ import Comment from "../Comment/Comment";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import CommentCreation from "../commentCreation/commentCreation";
+import CommentCreation from "../CommentCreation/CommentCreation";
 import { BiDotsVertical } from "react-icons/bi";
 import { FaEdit } from "react-icons/fa";
 import { MdAutoDelete } from "react-icons/md";
